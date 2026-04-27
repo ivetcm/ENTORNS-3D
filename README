@@ -1,27 +1,6 @@
 # Escenari 3D en Unreal Engine
 
-Aquest projecte consisteix en el disseny i desenvolupament d'un entorn tridimensional detallat utilitzant Unreal Engine. S'ha treballat des de la concepció visual fins a l'optimització final de l'escenari.
+Aquest projecte consisteix en la creació d'un entorn3D en Unreal.
 
 ## Lliurament del Projecte
-La versió final, es troba disponible a la secció de Releases d'aquest repositori.
-
----
-
-## Procés Creatiu i Documentació
-
-Per al desenvolupament d'aquest escenari, s'ha seguit una metodologia de treball organitzada que inclou els següents elements:
-
-### Moodboard i Referències
-Es va dissenyar un moodboard inicial per definir la paleta de colors, la il·luminació i l'atmosfera de l'entorn, assegurant una coherència visual en tot moment.
-
-### Documentació Pas a Pas
-He creat un document detallat que mostra tot el flux de treball: des del blockout i el modelatge fins a la configuració d'il·luminació i postprocessat en Unreal Engine.
-
-Enllaç al document de procés: []
-
----
-
-## Demostració en Vídeo
-Per apreciar millor la profunditat, les textures i l'ambient de l'escenari, s'ha realitzat un vídeo cinematogràfic del projecte:
-
-Enllaç al vídeo del projecte: []
+La versió final, es troba a la secció de Releases d'aquest repositori.
